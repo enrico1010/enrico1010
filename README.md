@@ -3,14 +3,14 @@
 Sou estudante de GPSI (Gestão e Programação de Sistemas Informaticos)
 Gosto de aprender novas ferramentas e desenvolver soluções práticas através de código.
 
-🚀 Competências Técnicas
+##🚀 Competências Técnicas
 💻 Tecnologias
 Python
 HTML, CSS, JavaScript
 Git e GitHub
 MySQL
 
-📂 Projetos em Destaque
+##📂 Projetos em Destaque
 🔹 Sistema de Gestão
 Desenvolvido em Python
 Permite gerir clientes e produtos
