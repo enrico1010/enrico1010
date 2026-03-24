@@ -1,16 +1,34 @@
-## Hi there 👋
+👋 Olá, eu sou o Enrico Baptista
 
-<!--
-**enrico1010/enrico1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de GPSI (Gestão e Programação de Sistemas Informaticos)
+Gosto de aprender novas ferramentas e desenvolver soluções práticas através de código.
 
-Here are some ideas to get you started:
+🚀 Competências Técnicas
+💻 Tecnologias
+Python
+HTML, CSS, JavaScript
+Git e GitHub
+MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projetos em Destaque
+🔹 Sistema de Gestão
+Desenvolvido em Python
+Permite gerir clientes e produtos
+Focado na organização e eficiência de dados
+🔹 Website Responsivo
+HTML, CSS e JavaScript
+Design adaptado a diferentes dispositivos
+Interface simples e intuitiva
+
+📚 Atualmente a aprender
+JavaScript avançado
+APIs
+Desenvolvimento web
+
+🎯 Objetivos
+Tornar-me programador web
+Participar em projetos reais
+Aprender continuamente novas tecnologias
+
+📫 Contacto
+Email: teuemail@email.com
