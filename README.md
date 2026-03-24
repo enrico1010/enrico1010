@@ -1,34 +1,20 @@
-👋 Olá, eu sou o Enrico Baptista
+## Olá, eu sou o Leonardo Pires 👋
+Sou estudante de GPSI com interesse em Desenvolvimento Web.
+Estou a desenvolver competências em programação e tecnologia.
 
-Sou estudante de GPSI (Gestão e Programação de Sistemas Informaticos)
-Gosto de aprender novas ferramentas e desenvolver soluções práticas através de código.
+## Tecnologias
+- Python
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Bases de dados (MySQL)
 
-##🚀 Competências Técnicas
-💻 Tecnologias
-Python
-HTML, CSS, JavaScript
-Git e GitHub
-MySQL
+## Atualmente a aprender
+- Desenvolvimento web
 
-##📂 Projetos em Destaque
-🔹 Sistema de Gestão
-Desenvolvido em Python
-Permite gerir clientes e produtos
-Focado na organização e eficiência de dados
-🔹 Website Responsivo
-HTML, CSS e JavaScript
-Design adaptado a diferentes dispositivos
-Interface simples e intuitiva
+## Objetivos
+- Tornar-me programador web
+- Trabalhar em projetos reais
+- Aprender novas tecnologias
 
-📚 Atualmente a aprender
-Python e HTML
-APIs
-Desenvolvimento web
-
-🎯 Objetivos
-Tornar-me programador web
-Participar em projetos reais
-Aprender continuamente novas tecnologias
-
-📫 Contacto
-Email: enricobaptistaoficial@gmail.com
+## Contacto
+- Email: Leonardovfp14@email.com
