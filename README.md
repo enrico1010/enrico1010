@@ -21,7 +21,7 @@ Design adaptado a diferentes dispositivos
 Interface simples e intuitiva
 
 📚 Atualmente a aprender
-JavaScript avançado
+Python e HTML
 APIs
 Desenvolvimento web
 
@@ -31,4 +31,4 @@ Participar em projetos reais
 Aprender continuamente novas tecnologias
 
 📫 Contacto
-Email: teuemail@email.com
+Email: enricobaptistaoficial@gmail.com
